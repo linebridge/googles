@@ -1,0 +1,36 @@
+nav {
+    display: block;
+    margin-left: 1150px;
+    margin-top: 25px;
+}
+
+a {
+    padding: 6px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo {
+    margin-top: 140px;
+    width: 272px;
+}
+
+#searchbar {
+    width: 500px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+#searchbtn {
+    margin-top: 18px;
+    height: 30px;
+    font-size: 20px;
+}
+
+#searchbtn:hover {
+    cursor: pointer;
+}
